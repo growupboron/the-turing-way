@@ -38,7 +38,7 @@ The main idea is to set a clear protocols around expectations on communication t
 - Rotating schedule for chairs and note takers from the team
 
 ### Etiquette for online meetings and communications
-[//]: # (Add details and more points point to other chapters for details)
+[//]: # (Add details and more points point to other chapters for details.)
 - Establish format of communication within whole group and subgroups
   - Communicate clearly which tool they will use, for example, Zoom for call, Google Docs for documentation, Trello for action points
 - Pre-defined agenda with an allocated chair and note taker to prevent informality and loss of focus
